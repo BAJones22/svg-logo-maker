@@ -1,5 +1,5 @@
-# module-four-challenge
-Coding Bootcamp Module Four Challenge
+# module-ten-challenge
+SVG Logo Maker
 
 ## Description
 
